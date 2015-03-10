@@ -1,6 +1,0 @@
-Z:\daniel\workspace\isActivated\isActivated\isActivated\bin\Debug\isActivated.exe.config
-Z:\daniel\workspace\isActivated\isActivated\isActivated\bin\Debug\isActivated.exe
-Z:\daniel\workspace\isActivated\isActivated\isActivated\bin\Debug\isActivated.pdb
-Z:\daniel\workspace\isActivated\isActivated\isActivated\obj\Debug\isActivated.csprojResolveAssemblyReference.cache
-Z:\daniel\workspace\isActivated\isActivated\isActivated\obj\Debug\isActivated.exe
-Z:\daniel\workspace\isActivated\isActivated\isActivated\obj\Debug\isActivated.pdb
