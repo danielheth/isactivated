@@ -1,0 +1,5 @@
+Z:\daniel\workspace\isActivated\isActivated\isActivated\bin\Release\isActivated.exe.config
+Z:\daniel\workspace\isActivated\isActivated\isActivated\bin\Release\isActivated.exe
+Z:\daniel\workspace\isActivated\isActivated\isActivated\bin\Release\isActivated.pdb
+Z:\daniel\workspace\isActivated\isActivated\isActivated\obj\Release\isActivated.exe
+Z:\daniel\workspace\isActivated\isActivated\isActivated\obj\Release\isActivated.pdb
