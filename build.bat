@@ -6,6 +6,7 @@ set msBuildDir=
 ::ONLY SIGN IF THE CERT IS AVAILABLE
 if exist "C:\SignCert\MoranIT.pfx" (
 	"C:\Program Files\Microsoft SDKs\Windows\v7.1\Bin\signtool.exe" sign /f "C:\SignCert\MoranIT.pfx" /p "%SIGNING_CERT_PASSWORD%" /t "http://timestamp.verisign.com/scripts/timestamp.dll" "%WORKSPACE%\isActivated\bin\Release\isActivated.exe"
+	if errorlevel 1 exit 1
 ) else (
 	echo Skipping signing since we're not on build server.
 )
